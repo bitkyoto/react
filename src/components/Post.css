@@ -1,0 +1,32 @@
+.post{
+    margin-top: 100px;
+    color:rgb(201, 201, 201);
+}
+.poster{
+    max-width: 300px;
+    max-height: 300px;
+    width: 280px;
+    height: auto;
+    justify-content: center;
+    border-radius: 15%;
+}
+.post_div{
+    margin-left: 20px;
+    max-width: 300px;
+    max-height: 300px;
+}
+.post_title{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    color:azure;
+    justify-content: center;
+}
+h1{
+    margin-bottom: 15px;
+}
+.description{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 0px;
+}
