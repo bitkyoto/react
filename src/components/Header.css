@@ -3,7 +3,7 @@
     width: 100%;
     position: fixed;
     background-color: #40407a;
-    height: 80px;
+    height: 10%;
     font-family: "Roboto", serif;
     color: black;
     display: flex;
@@ -22,7 +22,7 @@ img{
     margin-left: 10px;
     margin-right: 20%;
     /* padding: 10px; */
-    font-size: 26px;
+    font-size: 20px;
     flex-grow: 1;
 }
 .header_ul li:hover{

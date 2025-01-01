@@ -8,6 +8,17 @@ function App() {
       <div className="posts_view">
         <Post title='Nosferatu' description='This is such a good movie!'/> 
         <Post title='Dumb and dumber' description='Dogshit!'/> 
+        <Post title='Dumb and dumber' description='Dogshit!'/> 
+        <Post title='Dumb and dumber' description='Dogshit!'/> 
+        <Post title='Dumb and dumber' description='Dogshit!'/> 
+        <Post title='Dumb and dumber' description='Dogshit!'/> 
+        <Post title='Dumb and dumber' description='Dogshit!'/> 
+        <Post title='Dumb and dumber' description='Dogshit!'/> 
+        <Post title='Dumb and dumber' description='Dogshit!'/> 
+        <Post title='Dumb and dumber' description='Dogshit!'/> 
+        <Post title='Dumb and dumber' description='Dogshit!'/> 
+        <Post title='Dumb and dumber' description='Dogshit!'/> 
+        <Post title='Dumb and dumber' description='Dogshit!'/> 
       </div>
     </>
   )
