@@ -22,12 +22,13 @@ img{
     margin-left: 10px;
     margin-right: 20%;
     /* padding: 10px; */
-    font-size: 20px;
+    font-size: 26px;
     flex-grow: 1;
 }
 .header_ul li:hover{
-    background-color: rgb(98, 126, 254);
+    /* background-color: rgb(32, 73, 253); */
     cursor: pointer;
+    text-decoration: underline;
 }
 #logo:hover{
     background-color: transparent; 
