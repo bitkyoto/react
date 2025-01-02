@@ -3,8 +3,8 @@
     flex-wrap: wrap;
     margin-left: 10%;
     margin-right: 10%;
-    gap: 30px;
+    gap: 5px 30px;
     margin-top: 120px;
     justify-content: center;
-    color:rgb(201, 201, 201);
+    box-sizing: border-box;
 }

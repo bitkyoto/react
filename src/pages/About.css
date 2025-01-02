@@ -1,0 +1,28 @@
+.about_container{
+    display: flex;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-top:120px;
+    max-width:100vw;
+    align-content: center;
+}
+.title_1{
+    width: 80%;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    text-align: center;
+    border-bottom: solid 2px black;
+    font-size: 40px;
+}
+.bio{
+    margin-left: 15vw;
+    margin-right: 15vw;
+    font-size: 30px;
+}
+.bio_p{
+    font-size: 25px;
+}
+.bio li{
+    margin-bottom: 10px;
+}

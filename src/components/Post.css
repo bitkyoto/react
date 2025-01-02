@@ -9,8 +9,13 @@
 }
 .post_title{
     text-align: center;
+    color:rgb(239, 238, 238);
+    margin-bottom: 15px;
+    margin-top: 10px;
 }
 .description{
     text-align: center;
-    font-size: 20px;
+    margin-top: 15px;
+    font-size: 22px;
+    color:rgb(201, 201, 201);
 }

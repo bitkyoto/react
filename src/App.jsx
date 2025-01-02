@@ -1,7 +1,7 @@
 import './App.css'
 import Header from './components/Header';
 import Postview from './components/Postview';
-
+import About from './pages/About';
 const posts = [
   { title: 'Nosferatu', description: 'This is such a good movie!' },
   { title: 'Dumb and Dumber', description: 'Dogshit!' },
@@ -20,8 +20,8 @@ const posts = [
 function App() {
   return (
     <>
-      <Header/>
-      <Postview posts={posts}/>
+      <About/>
+
     </>
   )
 }
